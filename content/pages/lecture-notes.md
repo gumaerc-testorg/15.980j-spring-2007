@@ -1,5 +1,6 @@
 ---
 content_type: page
+description: This section provides the course lecture notes.
 learning_resource_types:
 - Lecture Notes
 ocw_type: CourseSection
@@ -25,7 +26,7 @@ TOPICS
 1
 {{< tdclose >}}
 {{< tdopen >}}
-Introduction ([PDF]({{< baseurl >}}/resources/lec1))
+Introduction ({{% resource_link 557566ce-1370-85aa-6506-8bf78d116af5 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -34,7 +35,7 @@ Introduction ([PDF]({{< baseurl >}}/resources/lec1))
 2
 {{< tdclose >}}
 {{< tdopen >}}
-Technology transfer: Where and how do new product ideas originate? ([PDF]({{< baseurl >}}/resources/lec2))
+Technology transfer: Where and how do new product ideas originate? ({{% resource_link e3ace71e-ce14-5054-3893-cf61e91b72ce "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -43,7 +44,7 @@ Technology transfer: Where and how do new product ideas originate? ([PDF]({{< ba
 3
 {{< tdclose >}}
 {{< tdopen >}}
-Relations between science and technology ([PDF]({{< baseurl >}}/resources/lec3))
+Relations between science and technology ({{% resource_link e51fcad1-0f0a-7b32-d5b1-526b22a0221d "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -61,7 +62,7 @@ The technological gatekeeper: Care and feeding
 5
 {{< tdclose >}}
 {{< tdopen >}}
-Reward systems for engineers and scientists ([PDF]({{< baseurl >}}/resources/lec5a))
+Reward systems for engineers and scientists ({{% resource_link dc61023b-e2ca-7b20-a50f-eb21e05703a4 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -70,7 +71,7 @@ Reward systems for engineers and scientists ([PDF]({{< baseurl >}}/resources/lec
 6
 {{< tdclose >}}
 {{< tdopen >}}
-The innovation process: How should we organize? ([PDF]({{< baseurl >}}/resources/lec6))
+The innovation process: How should we organize? ({{% resource_link 857f3250-f519-8fa6-2081-b4d84ddd7ce8 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -81,7 +82,7 @@ The innovation process: How should we organize? ([PDF]({{< baseurl >}}/resources
 {{< tdopen >}}
 
 
-Examples of the use of physical space to accomplish organizational goals ([PDF]({{< baseurl >}}/resources/lec7)) (Courtesy of Gunter Henn. Used with permission.)
+Examples of the use of physical space to accomplish organizational goals ({{% resource_link a2efd806-6fba-5040-6505-88f87fd64570 "PDF" %}}) (Courtesy of Gunter Henn. Used with permission.)
 
 Guest lecturer: Prof. Gunter Henn
 
@@ -109,7 +110,7 @@ Guest lecturer: Prof. Gunter Henn
 9
 {{< tdclose >}}
 {{< tdopen >}}
-The downside of project organization: Conformity and the aging of project teams ([PDF 1]({{< baseurl >}}/resources/lec9a)) ([PDF 2]({{< baseurl >}}/resources/lec9b))
+The downside of project organization: Conformity and the aging of project teams ({{% resource_link f528ceaf-dd1a-31ca-92c5-36d9ecf1f4ff "PDF 1" %}}) ({{% resource_link dad5230f-dc3c-d413-b15d-9d1cf5b8211d "PDF 2" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -127,7 +128,7 @@ The matrix: Curse or asset?
 11
 {{< tdclose >}}
 {{< tdopen >}}
-Physical space and its interaction with organizational space ([PDF 1]({{< baseurl >}}/resources/lec11a)) ([PDF 2]({{< baseurl >}}/resources/lec11b))
+Physical space and its interaction with organizational space ({{% resource_link f5f4fdd2-911a-2da6-1a8d-55e379046e7e "PDF 1" %}}) ({{% resource_link 4a16cd33-fd49-0618-12e3-8dd20a3b6092 "PDF 2" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -136,7 +137,7 @@ Physical space and its interaction with organizational space ([PDF 1]({{< baseur
 12
 {{< tdclose >}}
 {{< tdopen >}}
-Effects of geographic location on communication patterns ([PDF]({{< baseurl >}}/resources/lec12))
+Effects of geographic location on communication patterns ({{% resource_link 46963b49-2985-2576-551b-79cdf921450c "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
