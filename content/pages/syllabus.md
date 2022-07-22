@@ -1,5 +1,8 @@
 ---
 content_type: page
+description: This section provides information about topics for lecture sessions.
+learning_resource_types: []
+ocw_type: CourseSection
 title: Syllabus
 uid: 12a5ec3c-82d3-d10d-7a17-cb2b77dc85a7
 ---
