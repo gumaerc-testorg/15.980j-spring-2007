@@ -6,6 +6,7 @@ file: /courses/15-980j-organizing-for-innovative-product-development-spring-2007
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: lec11a.pdf
 uid: f5f4fdd2-911a-2da6-1a8d-55e379046e7e
 ---
 Lecture slides about the effects of physical location on communication patterns.
-

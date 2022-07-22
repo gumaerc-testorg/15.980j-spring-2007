@@ -6,6 +6,7 @@ file: /courses/15-980j-organizing-for-innovative-product-development-spring-2007
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: lec9b.pdf
 uid: dad5230f-dc3c-d413-b15d-9d1cf5b8211d
 ---
 Lecture slides about the downside of project organization: conformity and the aging of project teams.
-

@@ -5,6 +5,7 @@ file: /courses/15-980j-organizing-for-innovative-product-development-spring-2007
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: paper.pdf
 uid: 61c811ec-6d70-d336-8d66-cfa6f8efd2c4
 ---
 Guidelines for the final paper assignment.
-

@@ -6,6 +6,7 @@ file: /courses/15-980j-organizing-for-innovative-product-development-spring-2007
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: student2.pdf
 uid: c7b830ac-b4d7-a767-3e88-a317ffaf6fdf
 ---
 Sample student presentation from 2006 on Organizing for Innovation in Internet Firms, by Anand Bhadouria, Aparna Chennapragada, and Rajiv Ramaratnam.
-

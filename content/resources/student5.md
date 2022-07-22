@@ -6,6 +6,7 @@ file: /courses/15-980j-organizing-for-innovative-product-development-spring-2007
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: student5.pdf
 uid: f947b32a-9e40-d8ea-f9dc-340bb449a14e
 ---
 Sample student presentation from 2006 on Intellution: A Study In Innovation, by Paul Wheeler.
-
