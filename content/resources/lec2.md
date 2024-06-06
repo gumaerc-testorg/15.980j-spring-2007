@@ -3,6 +3,7 @@ content_type: resource
 description: 'Lecture slides about technology transfer: Where and how do new product
   ideas originate?'
 file: /courses/15-980j-organizing-for-innovative-product-development-spring-2007/e3ace71ece1450543893cf61e91b72ce_lec2.pdf
+file_size: 146498
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
