@@ -3,6 +3,7 @@ content_type: resource
 description: Lecture slides about the innovation process, departmental organization,
   and project team organization.
 file: /courses/15-980j-organizing-for-innovative-product-development-spring-2007/857f3250f5198fa62081b4d84ddd7ce8_lec6.pdf
+file_size: 222614
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

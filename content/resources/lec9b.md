@@ -3,6 +3,7 @@ content_type: resource
 description: 'Lecture slides about the downside of project organization: conformity
   and the aging of project teams.'
 file: /courses/15-980j-organizing-for-innovative-product-development-spring-2007/dad5230fdc3cd413b15d9d1cf5b8211d_lec9b.pdf
+file_size: 37422
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

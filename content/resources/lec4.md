@@ -5,6 +5,7 @@ description: 'This resource contains information on topics gatekeeper as a link 
 
   technology, gatekeeper characteristics, the dual ladder'
 file: /courses/15-980j-organizing-for-innovative-product-development-spring-2007/e0acd6f1fd3fb998e03e2836331a6efe_lec4.pdf
+file_size: 80024
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
