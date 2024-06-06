@@ -2,6 +2,7 @@
 content_type: resource
 description: This resource contains guidelines for final paper.
 file: /courses/15-980j-organizing-for-innovative-product-development-spring-2007/e4a9cd6abd32432f8d7b7afa58b4b579_assignment.pdf
+file_size: 15743
 file_type: application/pdf
 learning_resource_types:
 - Assignments

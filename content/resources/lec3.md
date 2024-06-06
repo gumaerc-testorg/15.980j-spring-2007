@@ -2,6 +2,7 @@
 content_type: resource
 description: Lecture slides about relations between science and technology.
 file: /courses/15-980j-organizing-for-innovative-product-development-spring-2007/e51fcad10f0a7b32d5b1526b22a0221d_lec3.pdf
+file_size: 474538
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
