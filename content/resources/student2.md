@@ -2,7 +2,7 @@
 content_type: resource
 description: Sample student presentation from 2006 on Organizing for Innovation in
   Internet Firms, by Anand Bhadouria, Aparna Chennapragada, and Rajiv Ramaratnam.
-file: /courses/15-980j-organizing-for-innovative-product-development-spring-2007/c7b830acb4d7a7673e88a317ffaf6fdf_student2.pdf
+file: /ol-ocw-studio-app/courses/15-980j-organizing-for-innovative-product-development-spring-2007/c7b830acb4d7a7673e88a317ffaf6fdf_student2.pdf
 file_size: 238476
 file_type: application/pdf
 learning_resource_types:

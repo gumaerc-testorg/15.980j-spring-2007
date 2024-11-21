@@ -2,7 +2,7 @@
 content_type: resource
 description: 'Sample student presentation from 2006 on Intellution: A Study In Innovation,
   by Paul Wheeler.'
-file: /courses/15-980j-organizing-for-innovative-product-development-spring-2007/f947b32a9e40d8eaf9dc340bb449a14e_student5.pdf
+file: /ol-ocw-studio-app/courses/15-980j-organizing-for-innovative-product-development-spring-2007/f947b32a9e40d8eaf9dc340bb449a14e_student5.pdf
 file_size: 111414
 file_type: application/pdf
 learning_resource_types:
